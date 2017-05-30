@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		BE7C80751ED94E8F005399B9 /* Prac2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Prac2; sourceTree = BUILT_PRODUCTS_DIR; };
-		BE7C80781ED94E8F005399B9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		BE7C80781ED94E8F005399B9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; tabWidth = 4; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -252,6 +252,7 @@
 				BE7C807E1ED94E8F005399B9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
